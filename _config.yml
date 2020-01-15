@@ -10,3 +10,7 @@ permalink: /:title/
 
 plugins:
   - jekyll-redirect-from
+
+url: "https://www.silverbirchgardencentre.co.uk"
+plugins:
+  - jekyll-sitemap
